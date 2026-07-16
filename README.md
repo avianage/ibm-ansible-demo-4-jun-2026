@@ -150,7 +150,7 @@ Paste the token from a plain text editor first (no trailing spaces/newline) rath
 Open `Jenkinsfile` and change:
 
 ```groovy
-IMAGE_NAME = "vamandeshmukh/ibm-ansible-demo"
+IMAGE_NAME = "avianage/ibm-ansible-demo"
 ```
 
 to `<your-dockerhub-username>/ibm-ansible-demo`. Also update the same username inside `ansible/deploy-playbook.yml` (`image_name` variable) and `k8s/deployment.yaml` (`image:` line) to match.
