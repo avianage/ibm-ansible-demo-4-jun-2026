@@ -18,7 +18,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "vamandeshmukh/ibm-ansible-demo"
+        IMAGE_NAME = "avianage/ibm-ansible-demo"
         IMAGE_TAG  = "${env.BUILD_NUMBER}"
     }
 
