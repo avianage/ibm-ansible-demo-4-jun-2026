@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: ibm-ansible-demo
-          image: vamandeshmukh/ibm-ansible-demo:latest
+          image: avianage/ibm-ansible-demo:latest
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 3000

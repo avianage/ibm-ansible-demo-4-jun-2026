@@ -12,7 +12,7 @@
   gather_facts: false
 
   vars:
-    image_name: "vamandeshmukh/ibm-ansible-demo"
+    image_name: "avianage/ibm-ansible-demo"
     deployment_name: "ibm-ansible-demo"
     container_name: "ibm-ansible-demo"
     image_tag: "latest"

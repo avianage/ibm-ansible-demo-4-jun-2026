@@ -111,7 +111,7 @@ to leave WSL and return to Windows.
 ### 2.1 Clone the repo
 
 ```
-git clone https://github.com/dyesmuk/ibm-ansible-demo-4-jun-2026.git
+git clone https://github.com/avianage/ibm-ansible-demo-4-jun-2026.git
 cd ibm-ansible-demo-4-jun-2026
 ```
 
